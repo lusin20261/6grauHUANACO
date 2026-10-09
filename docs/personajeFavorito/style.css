@@ -46,7 +46,7 @@ body {
         var(--color-secundario)
     );
 
-    color: white;
+    color: rgb(236, 116, 3);
 }
 
 .hero-content {
