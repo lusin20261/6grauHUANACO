@@ -1,0 +1,11 @@
+a = input("¿como te llamas?: ")
+b = input("¿cuantos años tenes?: ")
+c = input("¿cual es tu manga favorita: ")
+d = input("¿cual es tu personaje favorito: ")
+e = input("¿cual es tu cantante favorito: ")
+print ("hola",a)
+print("tienes",b,"años,que bueno.")
+print("a mi tambien me gusta",c,"es muy interesante")
+print("mi personaje favorito tambien es el",d)
+print("tu cantante favorito es",e)
+      
